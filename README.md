@@ -23,7 +23,7 @@ To write a python program to implement multivariate linear regression and predic
 ## Program:
 
 
-### Dataset Setup - Run this cell before starting the experiment
+### Dataset Setup 
 
 ```
 import pandas as pd
